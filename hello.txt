@@ -1,2 +1,3 @@
 Hello this is our first lesson for gitbash
 and i am very interesting for this course
+but this course is very strange for me
